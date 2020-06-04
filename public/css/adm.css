@@ -1,0 +1,99 @@
+.logo{
+    height:78px;
+}
+.sidebar{
+    border: 1px solid #D6D6D6;
+    margin: 5px;
+    width: 300px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.contenido{
+    width: calc(100% - 300px);
+    display: flex;
+    flex-direction: column;
+}
+.color{
+    color: #FFC600;
+}
+.nav-link{
+    color: #666666;
+}
+.nav-link:hover{
+    color: #FFC600;
+}
+.btn-eliminar{
+    background:  #666666;
+    border: 1px solid #FFC600;
+    color: white;
+}
+.btn-eliminar:hover{
+    color: #FFC600;
+}
+.btn-eliminar_listado{
+    background:  #FFC600;
+    color: white;
+}
+.btn-eliminar_listado:hover{
+    color: #666666;
+}
+.btn-enviar{
+    background: #FFC600;
+    color: white;
+}
+.btn-enviar:hover{
+    background: #FFC600;
+    color:#666666;
+}
+.btn-editar{
+    background: #666666;
+    color: white;
+}
+.btn-editar:hover{
+    color:#FFC600;
+}
+.bg-nav{
+    background: #2D2D37;
+}
+.tc-navbar{
+    color:white!important;
+}
+.breadcrump-element{
+    color: #727284;
+}
+.imagen_tabla{
+    height: 100px;
+}   
+.icono_tabla{
+    height: 80px;
+}
+.imagen_show img{
+    height: 100px;
+    width: auto;
+}
+.icono_show{
+    width: 100px;
+}
+.boton-borrar{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 15px;
+}
+.archivo{
+    margin-bottom:5px;
+    margin-top:5px;
+}
+.imagen{
+    margin-bottom:5px;
+    margin-top:5px;
+}
+.no-visible{
+    display: none;
+}
+.imagen_producto{
+    height: 100px;
+}
+.img_slider{
+    height: 100px;
+}
